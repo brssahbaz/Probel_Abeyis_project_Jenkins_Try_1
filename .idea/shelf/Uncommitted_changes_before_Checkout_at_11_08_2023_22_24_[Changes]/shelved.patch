@@ -1,0 +1,80 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8917be49-40a0-400b-a3e8-b8b0def16747\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_B.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_B.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_B.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_B.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/test/resources/features/HastaKayit_B.feature\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/resources/features/HastaKayit_B.feature\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Brsh\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Tqo5ZQuLTHs01oM1LkPPIsiKr4\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Probel_Abeyis_project/src/test/resources&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\user\\IdeaProjects\\Probel_Abeyis_project\\src\\test\\resources\" />\r\n      <recent name=\"C:\\Users\\user\\IdeaProjects\\Probel_Abeyis_project\\src\\test\" />\r\n      <recent name=\"C:\\Users\\user\\IdeaProjects\\Probel_Abeyis_project\\src\\test\\java\" />\r\n      <recent name=\"C:\\Users\\user\\IdeaProjects\\Probel_Abeyis_project\\src\\test\\java\\pages\" />\r\n    </key>\r\n    <key name=\"MoveClassesOrPackagesDialog.RECENTS_KEY\">\r\n      <recent name=\"page\" />\r\n      <recent name=\"\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"runner\" />\r\n      <recent name=\"pages\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Runner\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Probel_Abeyis_project\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"runner.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"runner\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"runner.Runner\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.Runner\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8917be49-40a0-400b-a3e8-b8b0def16747\" name=\"Changes\" comment=\"\" />\r\n      <created>1691779790574</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1691779790574</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,10 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8917be49-40a0-400b-a3e8-b8b0def16747" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_B.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_B.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_B.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_B.feature" afterDir="false" />
++    <list default="true" id="8917be49-40a0-400b-a3e8-b8b0def16747" name="Changes" comment="Brsh First">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -68,7 +66,22 @@
+       <recent name="pages" />
+     </key>
+   </component>
+-  <component name="RunManager">
++  <component name="RunManager" selected="JUnit.Runner (1)">
++    <configuration name="Runner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="Probel_Kayit" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="runner.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="runner" />
++      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
++      <option name="TEST_OBJECT" value="class" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
+     <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+       <module name="Probel_Abeyis_project" />
+       <extension name="coverage">
+@@ -86,6 +99,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="JUnit.Runner (1)" />
+         <item itemvalue="JUnit.Runner" />
+       </list>
+     </recent_temporary>
+@@ -99,6 +113,14 @@
+       <option name="presentableId" value="Default" />
+       <updated>1691779790574</updated>
+     </task>
++    <task id="LOCAL-00001" summary="Brsh First">
++      <created>1691781117918</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1691781117918</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -112,4 +134,8 @@
+       </map>
+     </option>
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Brsh First" />
++    <option name="LAST_COMMIT_MESSAGE" value="Brsh First" />
++  </component>
+ </project>
+\ No newline at end of file
